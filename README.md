@@ -14,8 +14,9 @@ I'm a software engineer, with a focus on cloud observability, computing and syst
 - 3x SWE intern @ Citi
 - prev SWE intern @ DrawDream, ImmiCan.ai, Quadratic Sound, Inwit
 
-### Personal Website
-https://www.awaisirshad.com/
+### Links
+🔗 [Personal website](https://www.awaisirshad.com/)
+🔗 [LinkedIn](http://www.linkedin.com/in/awais-irshad-43281a1b6)
 
 ### Stats
 ["https://github-readme-stats.vercel.app/api?username=awaisirshad1&show_icons=true&theme=algolia"]::
