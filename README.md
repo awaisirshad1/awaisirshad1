@@ -2,12 +2,13 @@
 
 I'm a software engineer, with a focus on cloud observability, computing and systems. My main tech stacks have been Java, Python and Go. I have a keen interest in Rust for systems and C/C++ for embedded systems. Feel free to reach out to me at 📫 [awaisirshadswe@gmail.com](awaisirshadswe@gmail.com).
 
-Currently working on:
+💻 Currently working on:
 - Apps and fullstack development @ Milton Halal Food Bank, Aysha Centre
 
 🌱 Currently learning: 
 - Go for systems programming
 - conventions to contribute to OpenTelemetry
+- Rust interoperation with C and Swift
 
 ### Previous Experiences
 - 3x SWE intern @ Citi
