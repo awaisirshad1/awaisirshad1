@@ -1,6 +1,6 @@
 ## Hi, I'm Awais 👋
 
-I'm a software engineer, with a focus on cloud observability, computing and systems. My main tech stacks have been Java, Python and Go. I have a keen interest in Rust for systems and C/C++ for embedded systems. Feel free to reach out to me at 📫 [awaisirshadswe@gmail.com](awaisirshadswe@gmail.com).
+I'm a software engineer, with a focus on cloud observability, computing and systems. My main tech stacks have been Java, Python and Go. I have a keen interest in Rust for cryptography and systems and C/C++ for embedded systems. Feel free to reach out to me at 📫 [awaisirshadswe@gmail.com](awaisirshadswe@gmail.com).
 
 💻 Currently working on:
 - Apps and fullstack development @ Milton Halal Food Bank, Aysha Centre
@@ -12,7 +12,7 @@ I'm a software engineer, with a focus on cloud observability, computing and syst
 
 ### Previous Experiences
 - 3x SWE intern @ Citi
-- prev @ DrawDream, ImmiCan.ai, Quadratic Sound, Inwit
+- prev SWE intern @ DrawDream, ImmiCan.ai, Quadratic Sound, Inwit
 
 ### Personal Website
 https://www.awaisirshad.com/
